@@ -3,7 +3,7 @@ package c06;
 import java.util.Random;
 
 class Value {
-	//test
+	//test test2
 	int i;
 
 	public Value(int i) {
