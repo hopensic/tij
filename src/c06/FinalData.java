@@ -3,10 +3,11 @@ package c06;
 import java.util.Random;
 
 class Value {
+	//test
 	int i;
 
 	public Value(int i) {
-		this.i = i;
+		this.i = i; 
 	};
 }
 
