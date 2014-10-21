@@ -4,7 +4,7 @@ class A {
 	private String s;
 
 	A() {
-		System.out.println("Initiating A");
+		System.out.println("Initiating A"); 
 	}
 
 	A(String s) {
