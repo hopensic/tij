@@ -1,4 +1,7 @@
 package c04;
+/**
+ * Add some test comments
+ */
 
 public final class Clazz {
 	private final class InnerClazz implements Runnable {
