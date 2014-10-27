@@ -1,6 +1,9 @@
 package c06;
 
 import java.util.Random;
+/**
+Also add some test comments
+*/
 
 class Value {
 	//test test2
