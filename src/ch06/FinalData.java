@@ -1,6 +1,8 @@
 package ch06;
 
 import java.util.Random;
+
+import tools.P;
 /**
 Also add some test comments
 */
@@ -33,8 +35,11 @@ public class FinalData {
 	public static void main(String[] args) {
 		FinalData fd1 = new FinalData("fd1");
 		FinalData fd2 = new FinalData("fd2");
+		
+		P.lnrint("------------------------");
 		System.out.println(fd1.i4);
 		System.out.println(fd2.i4);
+		P.lnrint("------------------------");
 
 		System.out.println(FinalData.i5);
 		System.out.println(FinalData.i5);
