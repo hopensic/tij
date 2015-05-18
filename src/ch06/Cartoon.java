@@ -14,6 +14,8 @@ class Drawing extends Art {
 	}
 }
 
+
+
 public class Cartoon extends Drawing {
 	public Cartoon() {
 		P.lnrint("Cartoon constructor");
