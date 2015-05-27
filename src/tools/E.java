@@ -2,6 +2,10 @@ package tools;
 
 public class E {
 
+	public static void println() {
+		System.err.println();
+	}
+
 	public static void rint(String s) {
 		System.err.print(s);
 	}
